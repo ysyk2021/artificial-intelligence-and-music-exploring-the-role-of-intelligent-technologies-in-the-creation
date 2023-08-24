@@ -1,5 +1,3 @@
-Live Performance and Interactive Music Systems
-=====================================================================================
 
 Artificial intelligence (AI) is revolutionizing live music performances by providing new opportunities for musicians to explore and interact with their audiences. AI-powered interactive music systems allow musicians to create unique and engaging experiences that incorporate real-time feedback from the audience, creating a novel form of musical expression.
 

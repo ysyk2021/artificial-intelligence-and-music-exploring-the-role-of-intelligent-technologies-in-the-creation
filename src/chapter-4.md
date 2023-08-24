@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Music
-==============================
 
 Artificial intelligence (AI) has made a significant impact on the music industry. From composition and production to marketing and distribution, AI is playing an increasingly important role in every aspect of the music creation and performance process. In this chapter, we will examine the benefits, challenges, and limitations of AI in music.
 

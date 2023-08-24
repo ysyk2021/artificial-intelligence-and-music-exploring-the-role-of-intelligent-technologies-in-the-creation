@@ -1,5 +1,3 @@
-Copyright and Intellectual Property
-===============================================================================================
 
 The increasing use of artificial intelligence (AI) in music has raised a number of ethical and legal questions, particularly pertaining to issues of copyright and intellectual property. As AI continues to develop, the lines between human and machine-generated content are becoming increasingly blurred, making it difficult to determine who owns the rights to AI-generated music. In this chapter, we will explore some of the key ethical and legal issues related to copyright and intellectual property in AI-generated music.
 

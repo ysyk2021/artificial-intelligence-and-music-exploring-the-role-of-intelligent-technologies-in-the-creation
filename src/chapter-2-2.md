@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 In this chapter, we will discuss the different types of artificial intelligence (AI) used in the music industry. AI technology can be divided into three main categories: narrow or weak AI, general or strong AI, and super AI.
 

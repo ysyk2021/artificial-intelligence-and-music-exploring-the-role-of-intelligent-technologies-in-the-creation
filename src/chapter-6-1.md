@@ -1,5 +1,3 @@
-Ownership of AI-Generated Music
-===========================================================================================
 
 The rise of artificial intelligence (AI) in music has given rise to a number of ethical and legal issues, particularly regarding the ownership of AI-generated music. As AI continues to develop and become more sophisticated, the question of who owns the rights to music created by AI is becoming increasingly complex.
 

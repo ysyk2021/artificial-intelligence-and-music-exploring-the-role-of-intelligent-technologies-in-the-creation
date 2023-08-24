@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Music
-=========================================================================
 
 In this chapter, we will explore the challenges and limitations of using artificial intelligence (AI) in music. While AI has the potential to revolutionize the music industry, there are significant obstacles that must be overcome.
 

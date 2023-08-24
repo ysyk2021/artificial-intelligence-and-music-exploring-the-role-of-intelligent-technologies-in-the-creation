@@ -1,5 +1,3 @@
-Chapter 3: Music Landscape
-==========================
 
 Understanding the current landscape of music is crucial to exploring the role of artificial intelligence (AI) in its creation, production, and performance. In this chapter, we will examine global trends in music and the components that make up music.
 

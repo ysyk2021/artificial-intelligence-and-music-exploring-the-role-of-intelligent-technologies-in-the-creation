@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Music
-======================================================================
 
 In recent years, there has been a growing interest in the intersection of artificial intelligence (AI) and music. AI technology has the potential to revolutionize the music industry by enabling computers to perform tasks that were previously only possible for humans, such as composing original music and analyzing large amounts of musical data.
 

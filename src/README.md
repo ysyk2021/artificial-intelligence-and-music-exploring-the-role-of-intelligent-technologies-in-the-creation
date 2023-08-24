@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) is revolutionizing the way we create and perform music. In this book, "Artificial Intelligence and Music: Exploring the Role of Intelligent Technologies in the Creation and Performance of Music," we will explore the impact of intelligent technologies on music creation, performance, and consumption.
 

@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will discuss machine learning techniques, which are a key component of artificial intelligence (AI). Machine learning algorithms are used to teach computers how to learn from data, enabling them to make predictions and decisions based on patterns in the data.
 

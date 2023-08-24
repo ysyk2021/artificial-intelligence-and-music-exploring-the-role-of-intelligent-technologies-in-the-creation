@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Music
-=================================
 
 As artificial intelligence (AI) continues to evolve and become more sophisticated, its impact on the music industry is likely to grow. In this chapter, we will examine emerging trends and future prospects for AI in music.
 

@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To fully understand the potential of artificial intelligence (AI) in music, it is important to have a solid understanding of the history, types, and machine learning techniques that underpin this technology. In this chapter, we will explore these background and fundamental aspects of AI.
 

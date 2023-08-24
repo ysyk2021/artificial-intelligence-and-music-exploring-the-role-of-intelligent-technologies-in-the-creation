@@ -1,5 +1,3 @@
-Components of Music
-===============================================
 
 In this chapter, we will discuss the essential components of music. Understanding these components is fundamental to understanding how AI can be used in the creation and performance of music.
 

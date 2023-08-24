@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Music
-==========================================================
 
 As artificial intelligence (AI) continues to play an increasingly important role in the music industry, it is important to consider the ethical and legal implications of this technology. In this chapter, we will examine two key issues related to AI in music: ownership of AI-generated music and copyright and intellectual property.
 
