@@ -8,3 +8,7 @@ By the end of this book, readers will have a comprehensive understanding of the 
 We hope that this book provides a valuable resource for musicians, music producers, composers, researchers, and anyone interested in the intersection of AI and music.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
