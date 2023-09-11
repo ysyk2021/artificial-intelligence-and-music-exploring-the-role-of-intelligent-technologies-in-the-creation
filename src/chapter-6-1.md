@@ -1,5 +1,4 @@
-Chapter 8: Ownership of AI-Generated Music
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the complex issue of ownership in the context of AI-generated music. As artificial intelligence (AI) continues to play an increasing role in the creation and performance of music, questions arise regarding who should be considered the rightful owner of AI-generated works. This chapter explores different perspectives, legal considerations, and potential approaches to address the challenges surrounding ownership in the realm of AI-generated music.
 

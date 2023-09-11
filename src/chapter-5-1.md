@@ -1,5 +1,4 @@
-Chapter 5: Composition and Arrangement of Music
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the impact of artificial intelligence (AI) on the composition and arrangement of music. AI technologies have revolutionized the creative process by providing composers and arrangers with new tools and approaches to generate, manipulate, and organize musical ideas. From generating melodies to orchestrating complex compositions, AI has emerged as a powerful ally in the realm of music creation.
 

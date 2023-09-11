@@ -1,5 +1,4 @@
-Chapter 5: Benefits of AI in Music
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that artificial intelligence (AI) brings to the creation and performance of music. From enhancing creativity to revolutionizing music production and analysis, AI technologies have the potential to transform the music industry in profound ways. This chapter highlights the positive impacts of AI and showcases its diverse applications within the realm of music.
 

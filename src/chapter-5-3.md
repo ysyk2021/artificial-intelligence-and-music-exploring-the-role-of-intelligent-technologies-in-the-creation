@@ -1,5 +1,4 @@
-Chapter 7: Live Performance and Interactive Music Systems
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the role of artificial intelligence (AI) in live music performance and interactive music systems. AI technologies have enabled musicians to create new forms of musical expression that blur the boundaries between human and machine, empowering them to engage in real-time interactions with AI systems, shape their musical output, and co-create novel musical experiences.
 

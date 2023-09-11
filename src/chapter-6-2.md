@@ -1,5 +1,4 @@
-Chapter 7: Copyright and Intellectual Property
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical topic of copyright and intellectual property within the context of artificial intelligence (AI) and its impact on the creation and performance of music. The emergence of intelligent technologies has introduced new challenges and complexities in the realm of intellectual property rights. This chapter explores the role of copyright law, current debates, and potential solutions to address these issues.
 

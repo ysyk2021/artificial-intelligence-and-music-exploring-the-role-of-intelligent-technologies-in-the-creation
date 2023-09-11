@@ -1,5 +1,4 @@
-Chapter 10: Challenges and Limitations of AI in Music
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the challenges and limitations that arise from the use of artificial intelligence (AI) in the creation and performance of music. While AI technologies offer exciting possibilities, it is important to understand their current limitations and the obstacles they face in achieving widespread adoption and integration within the music industry. This chapter highlights some of the key challenges and provides insights into potential directions for future development.
 

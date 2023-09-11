@@ -1,5 +1,4 @@
-Chapter 3: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the different types of artificial intelligence (AI) and how they are used in music creation and performance. AI technologies have evolved significantly over time, resulting in different types of AI that exhibit varying degrees of intelligence and autonomy. Understanding these types of AI is crucial for understanding their application in music and their potential impact on the creative and artistic processes.
 

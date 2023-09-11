@@ -1,5 +1,4 @@
-Chapter 5: Machine Learning Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the various machine learning techniques that are instrumental in leveraging the power of artificial intelligence (AI) for music creation and performance. Machine learning enables AI systems to analyze vast amounts of data, learn patterns, and generate music that is both intelligent and creative. This chapter explores key machine learning algorithms and their applications in the domain of music.
 

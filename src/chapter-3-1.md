@@ -1,5 +1,4 @@
-Chapter 6: Global Trends in Music Creation, Production, and Performance
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the global trends in music creation, production, and performance that have been shaped by the integration of artificial intelligence (AI) technologies. These trends highlight the transformative impact of AI on various aspects of the music industry, including composition techniques, production processes, and live performances. By embracing AI, musicians, producers, and performers are able to innovate, collaborate, and engage with audiences in unprecedented ways.
 

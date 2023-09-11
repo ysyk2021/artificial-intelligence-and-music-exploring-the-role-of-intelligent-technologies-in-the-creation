@@ -1,5 +1,4 @@
-Chapter 3: Components of Music
-==============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the fundamental components of music and examine how artificial intelligence (AI) technologies have revolutionized the understanding and manipulation of these components. By leveraging AI algorithms, musicians and researchers can gain new insights into the structure, elements, and emotions conveyed through music. This enhanced understanding allows for innovative approaches to composition, performance, and analysis.
 
